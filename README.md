@@ -25,7 +25,8 @@ To run, these scripts require
 1. Copy the two-part Halo API key from the Halo Portal into the proper location in the scripts.
 2. Execute the script.
 
-```ruby check_for_cve-2014-0160.rb
+```
+ruby check_for_cve-2014-0160.rb
 ip-10-123-254-12, 53.215.74.1, centos,6.3, openssl.x86_64, 1.0.0-25.el6_3.1, notvuln
 ip-10-10-254-13, 54.192.200.254, ubuntu,12.04, openssl, 1.0.1-4ubuntu5.11, CVE-2014-0160
 Checked 2 servers total for OpenSSL and CVE-2014-0160
